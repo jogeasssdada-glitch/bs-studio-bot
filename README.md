@@ -1,0 +1,2 @@
+# bs-studio-bot
+bot
